@@ -7,14 +7,6 @@ class Owner
     @name = name
     @birthdate = bdate
   end
-
-  # def name
-  #   name = 'Doobar'
-  # end
-
-  # def birthdate
-  #   birthdate = Date.new(1989,02,28)
-  # end
  
   def countdown
     today = Date.today

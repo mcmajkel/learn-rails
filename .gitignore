@@ -17,5 +17,9 @@
 
 # Ignore rvm files
 /.ruby-*
+
 # Ignore application configuration
 /config/application.yml
+
+# Ignore ctags
+.tags*
